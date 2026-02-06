@@ -1,12 +1,12 @@
 {
-  "name": "EDITH-MD",
+  "name": "Dizzle-MD",
   "version": "1.0.0",
   "description": "WhatsApp Bot created By Bandaheali.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name EDITH-MD",
-    "stop": "pm2 stop EDITH-MD",
-    "restart": "pm2 restart EDITH-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DIZZLE-MD",
+    "stop": "pm2 stop Dizzle-MD",
+    "restart": "pm2 restart Dizzle-MD"
   },
   "keywords": [
     "edith-md",
